@@ -1,6 +1,6 @@
 # Self-Review / Testing (Issue #5)
 
-Tested on: [date]
+Tested on: 10-10-26
 Browser: Chrome
 
 - [x] Site loads locally with no console errors
@@ -12,4 +12,4 @@ Browser: Chrome
 - [x] Responsive layout checked (mobile width, nav collapses correctly)
 - [x] No broken images
 
-Notes: [anything you noticed/fixed]
+Notes: Fixed the above issues
