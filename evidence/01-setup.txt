@@ -1,0 +1,10 @@
+Parent repository: https://github.com/AmalChUm/websitetemplate
+Fork repository: https://github.com/sravyasambaturu/websitetemplate
+Local clone folder: websitetemplate
+Default branch: main (renamed from master after forking)
+
+Initial site behavior: Opened index.html locally before any edits. The
+site displayed the original template author's (Varad Bhogayata) resume
+content, including his name, bio, Arizona State University education,
+employer history, and project list. All of this needs to be replaced
+with my own information per the assignment instructions.
